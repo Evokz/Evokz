@@ -53,6 +53,3 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
-
-___
-  [![Evokz GitHub stats](https://github-readme-stats.vercel.app/api?username=Evokz&theme=dark&show_icons=true)](https://github.com/Evokz/github-readme-stats)
