@@ -45,7 +45,7 @@
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/office/40/000000/microsoft-excel-2019.png">
+    <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg">
   </div>
   
   <!-- Skills: Libraries -->
