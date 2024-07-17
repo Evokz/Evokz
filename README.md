@@ -40,12 +40,12 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,flutter&perline=3)](https://skillicons.dev)
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg">
+    <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg">  
   </div>
   
   <!-- Skills: Libraries -->
