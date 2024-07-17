@@ -20,13 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leandro-72a436252/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/carlosleandrop_/)
 <!-- GithubStats -->
 ![Evokz GitHub stats](https://github-readme-stats.vercel.app/api?username=Evokz&show_icons=true&theme=gotham)
-<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/Evokz/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/Evokz/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/Evokz/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/Evokz/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/Evokz/Cartorio)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/Evokz/Evokz/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -37,6 +30,7 @@
     <h3>Programming Languages</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
