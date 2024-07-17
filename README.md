@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Carlos! A passionate Cibersecurity student from Brazil.
   - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
-  - 🔭 I am looking for job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
+  - 🔭 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
 </p>
 <!-- Dropdown -->
 <details>
@@ -41,7 +41,7 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
