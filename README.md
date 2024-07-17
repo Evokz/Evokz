@@ -1,0 +1,4 @@
+- 👋 Hello, im call Carlos!
+- 👀 I’m interested in: Studying more programming and security information.
+- 🌱 I’m currently learning: About cybersecurity and python.
+- 📫 How to reach me: Well, just tell me in Instagram or Github or Gmail.
