@@ -21,8 +21,10 @@
 <!-- GithubStats -->
 ![Evokz GitHub stats](https://github-readme-stats.vercel.app/api?username=Evokz&show_icons=true&theme=gotham)
 <!-- GIF -->
-<p align="left">
+<p align="left">  
   
+   ![cybersecurity-background-5mr7g5tioxfq5m68](https://github.com/user-attachments/assets/6a58b125-9aeb-4f68-a42a-1e3afce192a4)
+
 </p>
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -33,7 +35,7 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
   
-  ![cybersecurity-background-5mr7g5tioxfq5m68](https://github.com/user-attachments/assets/b0865052-fda2-4aed-84c0-594d4c09cdf7)
+ 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
