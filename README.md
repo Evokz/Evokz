@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Carlos! A passionate Cibersecurity student from Brazil.
-  - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
   - 🔭 I am looking for job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
 </p>
 <!-- Dropdown -->
@@ -16,7 +16,8 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 <!-- Links -->
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leandro-72a436252/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosleandrop_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leandro-72a436252/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosleandrop_/)
 <!-- GithubStats -->
 ![Evokz GitHub stats](https://github-readme-stats.vercel.app/api?username=Evokz&show_icons=true&theme=gotham)
 <!-- Portfolio -->
