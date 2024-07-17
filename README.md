@@ -32,6 +32,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
+  
   ![cybersecurity-background-5mr7g5tioxfq5m68](https://github.com/user-attachments/assets/b0865052-fda2-4aed-84c0-594d4c09cdf7)
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
