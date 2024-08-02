@@ -23,7 +23,7 @@
 <!-- GIF -->
 <p align="left">  
   
-![studying](https://github.com/Evokz/Evokz/blob/main/especialista-em-seguranca-cibernetica-a-trabalhar-com-tecnologia-em-luzes-de-neon_23-2151645607.jpg)
+![studying](https://github.com/Evokz/Evokz/blob/main/script-em-execucao-no-computador-em-base-secreta-de-operacoes-usado-por-hacker_482257-88615.jpg)
    
 🔥 Skills
 </p>
