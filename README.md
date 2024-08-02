@@ -23,7 +23,7 @@
 <!-- GIF -->
 <p align="left">  
   
-
+![studying](https://github.com/Evokz/Evokz/blob/main/hacker-em-uma-sala-escura-com-um-computador-ao-fundo_771335-51675.avif)
    
 🔥 Skills
 </p>
