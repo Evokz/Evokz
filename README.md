@@ -5,9 +5,9 @@
 </div>
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Carlos! A passionate Cibersecurity student from Brazil.
-  - 🌱 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
-  - 🔭 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
+  Hi, I'm Carlos! A passionate Cibersecurity student from Brazil.
+  - 🖥  I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
+  - 💼 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
 </p>
 <!-- Dropdown -->
 <details>
