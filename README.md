@@ -23,7 +23,7 @@
 <!-- GIF -->
 <p align="left">  
   
-   ![cybersecurity-background-5mr7g5tioxfq5m68](https://github.com/user-attachments/assets/6a58b125-9aeb-4f68-a42a-1e3afce192a4)
+
    
 🔥 Skills
 </p>
