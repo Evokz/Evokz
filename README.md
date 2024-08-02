@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Cybersecurity, and Machine Learning.
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading, whether it's a good book, and my love is chess ♟, i think chess the best game ever! For me, its a cience, not a game!
 </details>
 <!-- Links -->
   
