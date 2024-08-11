@@ -28,7 +28,7 @@
 🔥 Skills
 </p>
 <!-- Skills: Programming Languages -->
-Language
+Languages
 
 | Python   |   HTML   | JavaScript |  
 |----------|----------|------------|
