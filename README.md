@@ -8,7 +8,7 @@
  Hi, I'm Carlos!
 A passionate Cybersecurity enthusiast from Brazil 🇧🇷
 
-🖥 I'm currently working as a Trainee in Information Security at Módulo Security, where I contribute to privacy, compliance, and data protection projects.
+🖥 I'm currently working as a employer Information Security at Módulo Security, where I contribute to privacy, compliance, and data protection projects.
 
 🎓 I’ve studied Cybersecurity and Computer Science through programs from IBM, Stanford, and Michigan.
 
