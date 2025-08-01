@@ -37,9 +37,9 @@ Languages
   <!-- Skills: Tools & Frameworks -->
   Tools and Frameworks
   
-|   Git    | Jupyter  | MySQL    | Excel    | PyCharm  | VScode   |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/>
+|   Git    | Jupyter  | MySQL    | Excel    | PyCharm  | VScode   |  SQLServer |
+|----------|----------|----------|----------|----------|----------|------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="SQL" alt="PyCharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="SQL" alt="SQL" width="55" height="55"/>
   
   <!-- Skills: Libraries -->
 My libraries in Python 
