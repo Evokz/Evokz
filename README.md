@@ -5,9 +5,16 @@
 </div>
 <!-- Presentation -->
 <p>
-  Hi, I'm Carlos! A passionate Cibersecurity student from Brazil.
-  - 🖥 I’m currently studying Cibersecurity and Computer Science at Michigan, Stanford and IBM.
-  - 💼 I am looking for a good job opportunity. My dream is to one day work with Cybersecurity and Machine Learning.
+ Hi, I'm Carlos!
+A passionate Cybersecurity enthusiast from Brazil 🇧🇷
+
+🖥 I'm currently working as a Trainee in Information Security at Módulo Security, where I contribute to privacy, compliance, and data protection projects.
+
+🎓 I’ve studied Cybersecurity and Computer Science through programs from IBM, Stanford, and Michigan.
+
+🛠️ I have experience with tools and platforms such as Python, MySQL, AWS, Power BI, Excel, and Google Sheets, always aiming to integrate automation and security.
+
+🔐 I'm especially interested in Cybersecurity, Privacy (LGPD/GDPR), and Machine Learning for threat detection and data analysis.
 </p>
 <!-- Dropdown -->
 <details>
