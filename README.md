@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
  Hi, I'm Carlos!
-A passionate Cybersecurity enthusiast from Brazil 🇧🇷
+A Trainee Cybersecurity from Brazil 🇧🇷
 
 🖥 I'm currently working as a employer Information Security at Módulo Security, where I contribute to privacy, compliance, and data protection projects.
 
