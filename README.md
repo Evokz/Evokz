@@ -10,7 +10,7 @@ A Trainee Cybersecurity from Brazil 🇧🇷
 
 🖥 I'm currently working as a employer Information Security at Módulo Security, where I contribute to privacy, compliance, and data protection projects.
 
-🎓 I’ve studied Cybersecurity and Computer Science through programs from IBM, Stanford, Michigan, EHC Council
+🎓 I’ve studied Cybersecurity and Computer Science through programs from IBM, Stanford, Michigan, EHC Council and Comptia+
 
 🛠️ I have experience with tools and platforms such as Python, MySQL, AWS, Power BI, Excel, and Google Sheets, always aiming to integrate automation and security.
 
